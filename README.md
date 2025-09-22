@@ -9,6 +9,6 @@ Es lassen sich
 konfigurieren.  
 <br />
 <p align="center">
-  <img src="./screen2.jpg" alt="Konfiguration" width="45%">
-  <img src="./screen.jpg" alt="Beispiel" width="45%">
+  <img src="./screen2.jpg" alt="Konfiguration" width="45%"><br />
+  <img src="./sreen.jpg" alt="Beispiel" width="45%">
 </p>
