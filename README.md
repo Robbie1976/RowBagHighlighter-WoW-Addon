@@ -12,3 +12,8 @@ konfigurieren.
   <img src="./screen2.jpg" alt="Konfiguration" width="45%"><br />
   <img src="./screen.jpg" alt="Beispiel" width="45%">
 </p>
+
+SLASH-Befehle:  
+* /rbh scan     - Cache leeren & Taschen neu scannen  
+* /rbh config   - Einstellungen öffnen (Optionen > AddOns)
+* /rbh debug    - Debug an/aus
