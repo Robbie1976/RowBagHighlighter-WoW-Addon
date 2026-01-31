@@ -1,4 +1,4 @@
-## Interface: 110200
+## Interface: 120000
 ## Title: Row Bag Highlighter
 ## Notes: Hebt Items in den Taschen hervor, basierend auf TSM-Preisen
 ## Author: DeinName
